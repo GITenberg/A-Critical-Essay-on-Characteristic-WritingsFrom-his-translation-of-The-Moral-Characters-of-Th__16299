@@ -1,0 +1,37 @@
+_repo: A-Critical-Essay-on-Characteristic-WritingsFrom-his-translation-of-The-Moral-Characters-of-Th__16299
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gally, Henry
+    birthdate: 1696
+    deathdate: 1769
+    gutenberg_agent_id: '6604'
+    url: http://www.gutenberg.org/2009/agents/6604
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Gally
+  editor:
+    agent_name: Chorney, Alexander H.
+    gutenberg_agent_id: '6605'
+    url: http://www.gutenberg.org/2009/agents/6605
+description:
+- Sections 1 and 3 of the essay are omitted in this edition.
+- Augustan Reprint Society, publication number 33
+gutenberg_issued: '2005-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16299'
+  lccn: a 53009889
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Theophrastus. Characters'
+- !lcsh 'Characters and characteristics in literature'
+title: 'A Critical Essay on Characteristic-Writings
+
+  From his translation of The Moral Characters of Theophrastus (1725)'
+url: http://www.gutenberg.org/ebooks/16299
